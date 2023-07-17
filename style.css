@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400;600;800&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400;600;800&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;800;1000&display=swap');
 
 
 body{
-  font-family: 'Tektur', cursive;
+  /* font-family: 'Tektur', cursive; */
+  font-family: 'Nunito Sans', sans-serif;
   margin: 0;
   font-size: 16px;
   background: #c4c0c0c7;
@@ -32,8 +34,8 @@ body{
   padding: 0.2rem;
 }
 .logo{
-  font-size: 1.5rem;
-  font-weight: 800;
+  font-size: 1.7rem;
+  font-weight: 1000;
   color: #206de8;
 }
 
